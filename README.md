@@ -11,18 +11,17 @@
 </div>
 
 ------------------------------------------
-
 ## Contents
 
 * [Anagram](./Anagram)
 * [Applet](./Applet)
 * [Class_Diagram_Case_Study](./Class_Diagram_Case_Study)
-* [Greatest](./Greatest)
-* [Common](./Common)
-* [Divisor](./Divisor)
-* [Multidimensional](./Multidimensional)
-* [Array](./Array)
+* [GCD_and_LCM](./GCD_and_LCM)
+* [Multidimensional_Array](./Multidimensional_Array)
 * [Multithreading](./Multithreading)
+* [User_Defined_Exception](./User_Defined_Exception)
+* [User_Defined_Package](./User_Defined_Package)
+* [Vector](./Vector)
 
 ------------------------------------------
 ### Author
