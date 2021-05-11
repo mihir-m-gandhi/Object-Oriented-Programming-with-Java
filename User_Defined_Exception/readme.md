@@ -15,11 +15,7 @@ Use the functions of user defined class *Trigonometry* by importing the package 
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output-1.jpg" alt="Output">
-</p>
-
-<p align="center">
-    <img src="./output-2.jpg" alt="Output">
+    <img src="./output.jpg" alt="Output">
 </p>
 
 ------------------------------------------
