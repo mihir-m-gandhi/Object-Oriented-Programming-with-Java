@@ -1,8 +1,8 @@
-## Anagram
+## Multithreading
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to check if two Strings are anagrams of each other. Two strings are said to be anagram if we can form one string by arranging the characters of another string. For example, <strong>RACE</strong> and <strong>CARE</strong>. 
+Write a program to take a random number as input and print its square if it is even and cube if it is odd by creating 2 threads. 
 
 ------------------------------------------
 ### Output:
