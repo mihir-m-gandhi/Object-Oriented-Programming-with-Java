@@ -7,7 +7,7 @@ Write a program to take a random number as input and print its square if it is e
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output.jpg" alt="Output">
+    <img src="./output.png" alt="Output">
 </p>
 
 ------------------------------------------
