@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write recursive functions to find the <strong>GCD</strong> and  <strong>LCM</strong> of the given two numbers.
+Write recursive functions to find the <strong>GCD</strong> and <strong>LCM</strong> of the given two numbers.
 
 ------------------------------------------
 ### Output:
