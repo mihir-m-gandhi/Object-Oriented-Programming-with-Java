@@ -1,25 +1,13 @@
-## User-defined Package
+## User-defined Exception
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to create a package *myPack* which contains a class *Trigonometry*. The class contains following static methods:
-1. sine() – accepts degree (0,30,60,90)
-2. cos() - accepts degree (0,30,60,90)
-3. tan() - accepts degree (0,30,60,90)
-4. cot() - accepts degree (0,30,60,90)
-5. cosec() - accepts degree (0,30,60,90)
-6. sec() - accepts degree (0,30,60,90)
-
-Use the functions of user defined class *Trigonometry* by importing the package *mypack*.
+Write a program which accepts marks of a student (between 0 to 100) and checks whether it is within the range or not. If it is within the range then it displays “marks entered successfully”, if not then it throws the exception of user defined class “MarksOutOfRangeException”. The class should contain appropriate toString method to describe object the class with the out of range marks entered by the user.
 
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output-1.jpg" alt="Output">
-</p>
-
-<p align="center">
-    <img src="./output-2.jpg" alt="Output">
+    <img src="./output.jpg" alt="Output">
 </p>
 
 ------------------------------------------
