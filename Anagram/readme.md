@@ -1,22 +1,18 @@
-## Combination (Iterative)
+## Anagram
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <strong> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Write a program to check if two Strings are anagrams of each other. Two strings are said to be anagram if we can form one string by arranging the characters of another string. For example, <strong>RACE</strong> and <strong>CARE</strong>. 
 
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg" alt="Output">
 </p>
 
 ------------------------------------------
-### Flowchart:
-
+### Class Diagram:
 <p align="center">
- <img src="./flowchart.png" alt="Flowchart">
+ <img src="./class_diagram.jpg" alt="Class Diagram">
 </p>
 
